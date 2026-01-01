@@ -28,4 +28,6 @@ ________________________________________________________________________________
 
 ## Supplemental Information
 
-### [SNOW_Presentation.pdf](./SNOW_Presentation.pdf): Relative presentation given at DTW's Wildlife Hazard Management Committee, Novemember 2025.
+### [DTW_OspreyInitiative_ExecutiveSummary_01Nov2024.pdf](./DTW_OspreyInitiative_ExecutiveSummary_01Nov2024.pdf): One-page summary of the Osprey Public Safety Initiative. 
+
+### [DTW_OspreyInitiative_ExecutiveSummary_01Nov2024.pdf](./DTW_OspreyInitiative_ExecutiveSummary_01Nov2024.pdf): Relative presentation given to DTW Wildlife Hazard Management Committee, February 2025.
