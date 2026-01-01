@@ -1,4 +1,4 @@
-# Activity Trends Trigger Osprey Public Safety Initiative
+# Osprey Public Safety Initiative: Tracking Osprey Activity to Support Wildlife-Hazard Management at DTW
 
 ### [Steven Gurney](https://linktr.ee/stevenmgurney)
 
