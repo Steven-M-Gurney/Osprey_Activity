@@ -30,4 +30,4 @@ ________________________________________________________________________________
 
 ### [DTW_OspreyInitiative_ExecutiveSummary_01Nov2024.pdf](./DTW_OspreyInitiative_ExecutiveSummary_01Nov2024.pdf): One-page summary of the Osprey Public Safety Initiative. 
 
-### [DTW_OspreyInitiative_ExecutiveSummary_01Nov2024.pdf](./DTW_OspreyInitiative_ExecutiveSummary_01Nov2024.pdf): Relative presentation given to DTW Wildlife Hazard Management Committee, February 2025.
+### [Osprey_Public Safety Initiative Slides_19Feb2025.pdf](./Osprey_Public Safety Initiative Slides_19Feb2025.pdf): Relative presentation given to DTW Wildlife Hazard Management Committee, February 2025.
