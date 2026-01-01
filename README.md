@@ -1,4 +1,4 @@
-# Osprey activy trends at DTW
+# Activity Trends Trigger Osprey Public Safety Initiative
 
 ### [Steven Gurney](https://linktr.ee/stevenmgurney)
 
